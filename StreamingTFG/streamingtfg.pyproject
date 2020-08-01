@@ -1,0 +1,3 @@
+{
+    "files": ["aplicacion.py","main.py","VentanaPrincipal.ui","stream.py","VentanaAjustes.ui","graficas.py","VentanaReproductor.ui","images.qrc","ajustes.py","VentanaGraficas.ui"]
+}

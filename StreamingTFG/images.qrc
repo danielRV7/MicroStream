@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>Imagenes/fondoGraficas.png</file>
+        <file>Imagenes/fondoMain.png</file>
+        <file>Imagenes/fondoAjustes.png</file>
+        <file>Imagenes/cronometro.png</file>
+        <file>Imagenes/fps.png</file>
+        <file>Imagenes/alto.png</file>
+        <file>Imagenes/ancho.png</file>
+        <file>Imagenes/graficas.png</file>
+    </qresource>
+</RCC>
